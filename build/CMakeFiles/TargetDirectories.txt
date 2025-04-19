@@ -1,0 +1,3 @@
+C:/MathModulPW6/build/CMakeFiles/MathModulPW6.dir
+C:/MathModulPW6/build/CMakeFiles/edit_cache.dir
+C:/MathModulPW6/build/CMakeFiles/rebuild_cache.dir

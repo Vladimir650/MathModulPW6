@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/MathModulPW6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MathModulPW6.dir\\main.cpp.obj -c C:\\MathModulPW6\\main.cpp",
+  "file": "C:/MathModulPW6/main.cpp",
+  "output": "CMakeFiles/MathModulPW6.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/MathModulPW6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MathModulPW6.dir\\library.cpp.obj -c C:\\MathModulPW6\\library.cpp",
+  "file": "C:/MathModulPW6/library.cpp",
+  "output": "CMakeFiles/MathModulPW6.dir/library.cpp.obj"
+}
+]
