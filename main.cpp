@@ -1,5 +1,6 @@
 #include <iostream>
 #include "library.hpp"
+#include "library.cpp"
 
 int main(){
 
